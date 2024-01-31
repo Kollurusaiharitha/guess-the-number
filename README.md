@@ -1,1 +1,1 @@
-# guess-the-number
+# python code for play games
